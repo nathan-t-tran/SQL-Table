@@ -1,0 +1,242 @@
+[
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\main.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\binary_files\\file_record.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\binary_files\\file_record.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/binary_files/file_record.cpp",
+  "output": "CMakeFiles/main.dir/includes/binary_files/file_record.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\binary_files\\utilities.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\binary_files\\utilities.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/binary_files/utilities.cpp",
+  "output": "CMakeFiles/main.dir/includes/binary_files/utilities.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\parser\\parser.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\parser\\parser.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/parser/parser.cpp",
+  "output": "CMakeFiles/main.dir/includes/parser/parser.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\parser\\sql_parser_functions.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\parser\\sql_parser_functions.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/parser/sql_parser_functions.cpp",
+  "output": "CMakeFiles/main.dir/includes/parser/sql_parser_functions.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\sql\\sql.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\sql\\sql.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/sql/sql.cpp",
+  "output": "CMakeFiles/main.dir/includes/sql/sql.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\stub\\stub.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\stub\\stub.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/stub/stub.cpp",
+  "output": "CMakeFiles/main.dir/includes/stub/stub.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\table\\table.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\table\\table.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/table/table.cpp",
+  "output": "CMakeFiles/main.dir/includes/table/table.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\token\\token.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\token\\token.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/token/token.cpp",
+  "output": "CMakeFiles/main.dir/includes/token/token.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\tokenizer\\ftokenize.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\tokenizer\\ftokenize.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/tokenizer/ftokenize.cpp",
+  "output": "CMakeFiles/main.dir/includes/tokenizer/ftokenize.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\tokenizer\\state_machine_functions.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\tokenizer\\state_machine_functions.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/tokenizer/state_machine_functions.cpp",
+  "output": "CMakeFiles/main.dir/includes/tokenizer/state_machine_functions.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\tokenizer\\stokenize.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\tokenizer\\stokenize.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/tokenizer/stokenize.cpp",
+  "output": "CMakeFiles/main.dir/includes/tokenizer/stokenize.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\_tests\\_test_files\\basic_test.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\_tests\\_test_files\\basic_test.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/_tests/_test_files/basic_test.cpp",
+  "output": "CMakeFiles/basic_test.dir/_tests/_test_files/basic_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\binary_files\\file_record.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\binary_files\\file_record.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/binary_files/file_record.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/binary_files/file_record.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\binary_files\\utilities.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\binary_files\\utilities.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/binary_files/utilities.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/binary_files/utilities.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\parser\\parser.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\parser\\parser.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/parser/parser.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/parser/parser.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\parser\\sql_parser_functions.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\parser\\sql_parser_functions.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/parser/sql_parser_functions.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/parser/sql_parser_functions.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\sql\\sql.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\sql\\sql.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/sql/sql.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/sql/sql.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\stub\\stub.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\stub\\stub.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/stub/stub.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/stub/stub.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\table\\table.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\table\\table.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/table/table.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/table/table.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\token\\token.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\token\\token.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/token/token.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/token/token.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\tokenizer\\ftokenize.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\tokenizer\\ftokenize.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/tokenizer/ftokenize.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/tokenizer/ftokenize.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\tokenizer\\state_machine_functions.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\tokenizer\\state_machine_functions.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/tokenizer/state_machine_functions.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/tokenizer/state_machine_functions.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\tokenizer\\stokenize.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\tokenizer\\stokenize.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/tokenizer/stokenize.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/tokenizer/stokenize.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\_tests\\_test_files\\testB.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\_tests\\_test_files\\testB.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/_tests/_test_files/testB.cpp",
+  "output": "CMakeFiles/testB.dir/_tests/_test_files/testB.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\binary_files\\file_record.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\binary_files\\file_record.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/binary_files/file_record.cpp",
+  "output": "CMakeFiles/testB.dir/includes/binary_files/file_record.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\binary_files\\utilities.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\binary_files\\utilities.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/binary_files/utilities.cpp",
+  "output": "CMakeFiles/testB.dir/includes/binary_files/utilities.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\parser\\parser.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\parser\\parser.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/parser/parser.cpp",
+  "output": "CMakeFiles/testB.dir/includes/parser/parser.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\parser\\sql_parser_functions.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\parser\\sql_parser_functions.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/parser/sql_parser_functions.cpp",
+  "output": "CMakeFiles/testB.dir/includes/parser/sql_parser_functions.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\sql\\sql.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\sql\\sql.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/sql/sql.cpp",
+  "output": "CMakeFiles/testB.dir/includes/sql/sql.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\stub\\stub.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\stub\\stub.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/stub/stub.cpp",
+  "output": "CMakeFiles/testB.dir/includes/stub/stub.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\table\\table.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\table\\table.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/table/table.cpp",
+  "output": "CMakeFiles/testB.dir/includes/table/table.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\token\\token.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\token\\token.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/token/token.cpp",
+  "output": "CMakeFiles/testB.dir/includes/token/token.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\tokenizer\\ftokenize.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\tokenizer\\ftokenize.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/tokenizer/ftokenize.cpp",
+  "output": "CMakeFiles/testB.dir/includes/tokenizer/ftokenize.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\tokenizer\\state_machine_functions.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\tokenizer\\state_machine_functions.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/tokenizer/state_machine_functions.cpp",
+  "output": "CMakeFiles/testB.dir/includes/tokenizer/state_machine_functions.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\tokenizer\\stokenize.cpp.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\includes\\tokenizer\\stokenize.cpp",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/includes/tokenizer/stokenize.cpp",
+  "output": "CMakeFiles/testB.dir/includes/tokenizer/stokenize.cpp.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build/_deps/googletest-build/googlemock",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -Wall -Wshadow -Werror -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build/_deps/googletest-build/googlemock",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -Wall -Wshadow -Werror -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build/_deps/googletest-build/googletest",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -Wall -Wshadow -Werror -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+},
+{
+  "directory": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build/_deps/googletest-build/googletest",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -Wall -Wshadow -Werror -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c C:\\Users\\natha\\Documents\\CS008\\99_99_final_project-ntran81\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "file": "C:/Users/natha/Documents/CS008/99_99_final_project-ntran81/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
+}
+]
